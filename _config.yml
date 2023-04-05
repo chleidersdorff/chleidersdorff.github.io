@@ -1,0 +1,8 @@
+# Site settings
+title: GISGeek - Awsome GIS resources and ideas
+author:
+  name: Christian Leidersdorff
+description: "GISGeek website."
+
+# Build settings
+remote_theme: jekyll/minima
