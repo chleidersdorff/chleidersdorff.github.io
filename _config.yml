@@ -6,3 +6,5 @@ description: "GISGeek website."
 
 # Build settings
 remote_theme: jekyll/minima
+
+exclude: ["readme.md"]
